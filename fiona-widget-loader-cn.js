@@ -14,7 +14,7 @@
    的问题完全一致，需要相同的架构修复，而不是简单压缩。
 
    解决方案 (THE FIX): 将本文件的实际内容托管在外部静态站点（GitHub
-   Pages），只在 Carrd 的 Embed -> Code -> Inline 元素中粘贴一个极小的
+   Pages），只在 Carrd 的 Embed -> Code -> Inline 元素中粘贴一个极小小的
    loader `<script src="https://<username>.github.io/<repo>/
    fiona-widget-loader-cn.js"></script>` 标签 —— 与真实可嵌入聊天组件
    （Intercom、Drift、Crisp）采用的模式相同。完整写法与手动部署步骤见
